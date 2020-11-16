@@ -1,0 +1,10 @@
+title_alignment=left
+full_width_title=false
+title_full_width=false
+button_offset=4
+button_spacing=0
+active_text_color=#0057af
+inactive_text_color=#0057af
+button_layout=C|MH
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
